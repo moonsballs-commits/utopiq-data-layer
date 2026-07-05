@@ -1,2 +1,0 @@
-# Data Layer - Pak Pedy
-
